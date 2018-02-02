@@ -1,7 +1,16 @@
 body {
+  padding-top: 30px;
+  text-align: center;
+  margin: 30px;
   background-color: gold;
+  min-width: 400px;
+  min-height: 200px;
+  border-radius: 5px;
+
 }
-h1 {
-  color: black;
-  margin-left: 40px;
+#picture:hover{
+  background-color: lightblue;
+}
+.name{
+background-color: darkblue ;
 }
