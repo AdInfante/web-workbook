@@ -1,0 +1,38 @@
+body {
+  padding-top: 30px;
+  text-align: center;
+  margin: 30px;
+  min-width: 400px;
+  min-height: 200px;
+  border-radius: 5px;
+}
+img{
+  width: 400px;
+  height: 900px;
+  float: right;
+  padding-left: 20px;
+}
+
+.title{
+  background-color: gold ;
+  font-size: 250%;
+}
+.aboutme{
+  background-color: orange;
+}
+p{
+  /* display: inline-block;
+  margin: 85px; */
+  margin-top: 20%;
+  padding-bottom: 37%;
+  padding-left:10px;
+  text-align: center;
+}
+
+nav li {
+  display: block;
+}
+
+nav a:hover{
+  color: green;
+}
